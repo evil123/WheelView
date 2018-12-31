@@ -22,7 +22,13 @@ WheelView
 
 
 #### Activity: 
+    
 
+
+
+
+
+    
 ```java    
 WheelView wva = (WheelView) findViewById(R.id.main_wv);
 wva.setOffset(1);
